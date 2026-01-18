@@ -1,0 +1,19 @@
+# ambiente virtual
+venv/
+
+# cache python
+__pycache__/
+*.pyc
+
+# variáveis de ambiente (não subir)
+.env
+
+# logs
+*.log
+
+# arquivos de IDE
+.vscode/
+.idea/
+
+# migrações compiladas
+*.py[cod]
